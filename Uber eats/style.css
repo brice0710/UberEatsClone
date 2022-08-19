@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@100;300;400;700&display=swap');
+
+body {
+  font-family: 'Roboto', 'Lato';
+}
+
+.close:hover {
+  border-bottom: 1px solid black;
+}
+
+.text {
+  background-color: #f6f6f6;
+}
+
+.main {
+  width:420px;
+}
+
+.main button:hover {
+  background-color: grey;
+}
+
+.part {
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.end:hover {
+  background-color: grey;
+}
